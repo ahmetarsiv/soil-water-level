@@ -4,3 +4,5 @@
 ## 1. Introduction:
 
 An open-source system that measures the soil water level and also warns with warning lights.
+
+<a href="https://opencollective.com/arsivpro#contributors" target="_blank"><img src="https://opencollective.com/arsivpro/backers.svg?width=890"></a>
